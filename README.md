@@ -11,3 +11,4 @@ Below is a list of ideas of small projects that I would like to take on. Each mi
 
 ### iOS Projects
 * Grade – An app that keeps track of assignments and their individual impacts on your grade in a course.
+* Canvas – A blank app where the user interface is dictated by a json payload.
